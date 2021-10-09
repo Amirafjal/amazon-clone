@@ -1,0 +1,40 @@
+.footer{
+    background-color:#37475A;
+    width:100%;
+    height:410px;
+}
+.footer1{
+    width:25%;
+    float:left;
+}
+.footer2{
+    width:25%;
+    float:left;
+}
+.footer3{
+    width:25%;
+    float:left;
+}
+.footer4{
+    width:25%;
+    float:left;
+}
+.footer h2,li{
+    color:white;
+}
+.footer__last{
+    width:100%;
+    height:150px;
+    background-color:#232F3E;
+}
+.footer__lastt{
+    width:100%;
+    height:50px;
+    background-color:#131A22;
+}
+/*  */
+.footer__last1 img{
+    margin-top: 60px;
+    margin-left:44%;
+}
+
